@@ -1,4 +1,4 @@
-package com.example.assignment2
+package edu.metrostate.assignment2
 
 import edu.merostate.assignment2.CreateAccountViewModel
 
@@ -17,7 +17,7 @@ import org.junit.jupiter.api.extension.ExtendWith
 class CreateAccountViewModelTest {
 
     @Test
-    fun `createAccount should succeed when api call is successful`(): Unit = runTest {
+    fun `createAccount should succeed when api call is successful`() = runTest {
 
         val mockUser = mockk<User>()
         val mockApiService = mockk<TodoApiService>()

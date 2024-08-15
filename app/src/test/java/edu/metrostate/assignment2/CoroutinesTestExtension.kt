@@ -1,7 +1,6 @@
-package com.example.assignment2
+package edu.metrostate.assignment2
 
-import android.os.Parcel
-import android.os.Parcelable
+
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.test.TestDispatcher

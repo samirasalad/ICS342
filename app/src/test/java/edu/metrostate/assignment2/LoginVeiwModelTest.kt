@@ -1,7 +1,6 @@
-package com.example.assignment2
+package edu.metrostate.assignment2
 
 import android.app.Application
-import androidx.arch.core.executor.testing.InstantTaskExecutorRule
 import androidx.test.core.app.ApplicationProvider
 import edu.merostate.assignment2.LoginViewModel
 import edu.merostate.assignment2.TodoApiService

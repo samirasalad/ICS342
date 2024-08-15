@@ -1,7 +1,5 @@
 package edu.metrostate.assignment2
 
-import com.example.assignment2.CoroutinesTestExtension
-import com.example.assignment2.InstantTaskExecutorExtension
 import edu.merostate.assignment2.TodoApiService
 import edu.merostate.assignment2.TodoItem
 import edu.merostate.assignment2.TodoListViewModel
