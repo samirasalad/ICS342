@@ -30,6 +30,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import edu.merostate.assignment2.ui.theme.Assignment2Theme
 import androidx.compose.runtime.livedata.observeAsState
+import com.example.assignment2.R
 import edu.merostate.assignment2.CreateAccountViewModel
 import edu.merostate.assignment2.LoginViewModel
 import edu.merostate.assignment2.TodoItem
